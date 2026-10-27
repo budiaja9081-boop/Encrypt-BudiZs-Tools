@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+encrypted_output/
+.env
+*.key
